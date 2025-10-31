@@ -1,0 +1,45 @@
+2025-10-29 16:11:31.837043-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found; SQL statement:
+select s1_0.id,s1_0.full_name,s1_0.class_id from student s1_0 [42102-232]
+2025-10-29 16:21:55.720955-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found; SQL statement:
+select s1_0.id,s1_0.full_name,s1_0.class_id from student s1_0 [42102-232]
+2025-10-29 16:31:46.389901-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found; SQL statement:
+select s1_0.id,s1_0.full_name,s1_0.class_id from student s1_0 [42102-232]
+2025-10-29 16:39:05.482345-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found; SQL statement:
+select s1_0.id,s1_0.full_name,s1_0.class_id from student s1_0 [42102-232]
+2025-10-29 17:01:54.864079-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found; SQL statement:
+select s1_0.id,s1_0.full_name,s1_0.class_id from student s1_0 [42102-232]
+2025-10-29 17:18:54.218493-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found; SQL statement:
+select s1_0.id,s1_0.full_name,s1_0.class_id from student s1_0 [42102-232]
+2025-10-29 17:20:20.212768-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found; SQL statement:
+select s1_0.id,s1_0.full_name,s1_0.class_id from student s1_0 [42102-232]
+2025-10-29 17:26:58.904959-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found; SQL statement:
+select s1_0.id,s1_0.full_name,s1_0.class_id from student s1_0 [42102-232]
+2025-10-29 17:27:51.999079-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found; SQL statement:
+select s1_0.id,s1_0.full_name,s1_0.class_id from student s1_0 [42102-232]
+2025-10-29 17:28:49.157289-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found; SQL statement:
+select s1_0.id,s1_0.full_name,s1_0.class_id from student s1_0 [42102-232]
+2025-10-29 17:29:17.799729-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found; SQL statement:
+select s1_0.id,s1_0.full_name,s1_0.class_id from student s1_0 [42102-232]
+2025-10-29 17:30:30.473642-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found; SQL statement:
+select s1_0.id,s1_0.full_name,s1_0.class_id from student s1_0 [42102-232]
+2025-10-29 17:31:14.775764-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "student" not found; SQL statement:
+select s1_0.id,s1_0.full_name,s1_0.class_id from student s1_0 [42102-232]
+2025-10-29 17:32:04.052059-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "student" not found; SQL statement:
+select s1_0.id,s1_0.full_name,s1_0.class_id from student s1_0 [42102-232]
+2025-10-29 17:33:04.272436-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "student" not found; SQL statement:
+select s1_0.id,s1_0.full_name,s1_0.class_id from student s1_0 [42102-232]

@@ -1,0 +1,6 @@
+[submodule "desafio-tecnico-caed-back-end"]
+	path = desafio-tecnico-caed-back-end
+	url = https://github.com/NodaEng/desafio-tecnico-caed-back-end.git
+[submodule "desafio-tecnico-caed-front-end"]
+	path = desafio-tecnico-caed-front-end
+	url = https://github.com/NodaEng/desafio-tecnico-caed-front-end.git
