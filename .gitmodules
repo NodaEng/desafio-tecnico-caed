@@ -2,7 +2,9 @@
 	path = desafio-tecnico-caed-back-end
 	url = git@github.com:NodaEng/desafio-tecnico-caed-back-end.git
 	branch = main
+	update = merge
 [submodule "desafio-tecnico-caed-front-end"]
 	path = desafio-tecnico-caed-front-end
 	url = git@github.com:NodaEng/desafio-tecnico-caed-front-end.git
 	branch = main
+	update = merge
